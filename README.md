@@ -1,0 +1,2 @@
+# Disney_SouvenirMedal
+ディズニーのスーベニアメダル管理用アプリ
